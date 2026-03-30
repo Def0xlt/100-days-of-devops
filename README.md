@@ -27,4 +27,5 @@ The goal is to spend time each day learning and implementing DevOps practices, a
 | 15 | Setup SSL for Nginx | ✅ Completed | [Day 15](./day15) |
 | 16 | Install and Configure Nginx as a Load Balancer | ✅ Completed | [Day 16](./day16) |
 | 17 | Install and Configure PostgreSQL | ✅ Completed | [Day 17](./day17) |
-| 18-100 | Coming Soon... | ⏳ In Progress | - |
+| 18 | Install and Configure MariaDB | ✅ Completed | [Day 18](./day18) |
+| 19-100 | Coming Soon... | ⏳ In Progress | - |
