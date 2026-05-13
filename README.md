@@ -29,4 +29,10 @@ The goal is to spend time each day learning and implementing DevOps practices, a
 | 17 | Install and Configure PostgreSQL | ✅ Completed | [Day 17](./day17) |
 | 18 | Install and Configure MariaDB | ✅ Completed | [Day 18](./day18) |
 | 19 | Install and Configure Web Application | ✅ Completed | [Day 19](./day19) |
-| 20-100 | Coming Soon... | ⏳ In Progress | - |
+| 20 | Git Install and Create Bare Repository | ✅ Completed | [Day 20](./day20) |
+| 21 | Git Clone Repositories | ✅ Completed | [Day 21](./day21) |
+| 22 | Git Fork a Repository | ✅ Completed | [Day 22](./day22) |
+| 23 | Git Manage Remotes | ✅ Completed | [Day 23](./day23) |
+| 24 | Git Create Branches | ✅ Completed | [Day 24](./day24) |
+| 25 | Git Merge Branches | ✅ Completed | [Day 25](./day25) |
+| 26-100 | Coming Soon... | ⏳ In Progress | - |
